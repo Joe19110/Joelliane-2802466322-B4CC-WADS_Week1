@@ -7,7 +7,7 @@ Class: B4C
 The World Wide Web, often shortened to "the web," is a system of interconnected documents and resources accessed via the internet. It's built upon hypertext, allowing users to navigate between pages through links. Think of the internet as the roads, and the web as the traffic driving on them.
 
 
-![WWW Logo](www.png)
+![WWW Logo](www.jpg)
 
 ## Hypertext Transfer Protocol (HTTP)
 
