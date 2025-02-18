@@ -1,6 +1,6 @@
 Name: Joelliane   
 Student ID: 2802466322   
-Class: B4CC   
+Class: B4C   
 
 # The World Wide Web (WWW)
 
